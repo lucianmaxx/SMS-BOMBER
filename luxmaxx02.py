@@ -1,4 +1,4 @@
-## luxmaxx ##
+## luxmaxx02 ##
 import time
 import smtplib
 
